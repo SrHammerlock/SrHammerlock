@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://github.com/SrHammerlock/SrHammerlock/blob/main/header.png?raw=true
 <!--
 **SrHammerlock/SrHammerlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
