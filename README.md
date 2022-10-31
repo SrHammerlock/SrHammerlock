@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github.com/SrHammerlock/SrHammerlock/blob/main/header.png" alt="banner that says hi, i'm srhammerlock">
 <!--
 **SrHammerlock/SrHammerlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
