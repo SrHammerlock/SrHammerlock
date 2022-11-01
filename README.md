@@ -40,7 +40,7 @@ Looking forward to meet new people who share my passion and vision .
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media.giphy.com/media/BJLcRLl7zFSwFXYsCq/giphy.gif" align="center" style="width: 50%" />
+<img src="https://media.giphy.com/media/BJLcRLl7zFSwFXYsCq/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -67,5 +67,6 @@ Looking forward to meet new people who share my passion and vision .
 </div>  
 
 <br/>  
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
