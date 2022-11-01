@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://github.com/SrHammerlock/SrHammerlock/blob/main/header.png" alt="banner that says hi, i'm srhammerlock">
 
 ## Hey 👋, I'm Ofek , AWS Re/Start graduate, computer & programming enthusiast.  
