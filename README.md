@@ -14,7 +14,7 @@
 
 
 ### Glad to see you here!  
-I'm a beginner programmer , with a base knowledge in fields like DevOps, Automation and Cloud.
+I'm a junior developer , with a base knowledge in fields like DevOps, Automation and Cloud.
 hardcore gamer and computer avid since really young age,
 looking to walk the first steps in the world of programming .
 
