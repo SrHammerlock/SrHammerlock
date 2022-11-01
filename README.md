@@ -26,7 +26,7 @@ Looking forward to meet new people who share my passion and vision .
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently searching for opportunities.  
   
@@ -37,10 +37,10 @@ Looking forward to meet new people who share my passion and vision .
 - ⚡ Fun fact: vim is my favourite .  
 
 
-</td><td valign="top" width="100%">
+</td><td valign="top" width="30%">
 
-<div align="left">
-<img src="https://media.giphy.com/media/BJLcRLl7zFSwFXYsCq/giphy.gif" align="center" style="width: 50%", height=50% />
+<div align="center">
+<img src="https://media.giphy.com/media/BJLcRLl7zFSwFXYsCq/giphy.gif" align="center" style="width: 30%" />
 </div>  
 
 
@@ -66,7 +66,6 @@ Looking forward to meet new people who share my passion and vision .
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>  
 
-<br/> 
-
+<br/>  
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
