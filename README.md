@@ -37,7 +37,7 @@ Looking forward to meet new people who share my passion and vision .
 - ⚡ Fun fact: vim is my favourite .  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
 <div align="center">
 <img src="https://media.giphy.com/media/BJLcRLl7zFSwFXYsCq/giphy.gif" align="center" style="width: 100%" />
