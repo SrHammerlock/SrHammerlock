@@ -1,8 +1,6 @@
 ### Hi there 👋
 <img src="https://github.com/SrHammerlock/SrHammerlock/blob/main/header.png" alt="banner that says hi, i'm srhammerlock">
 ## Hey 👋, I'm Ofek , AWS Re/Start graduate, computer & programming enthusiast.  
-  
-
 <a href="https://github.com/SrHammerlock" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -21,6 +19,7 @@ looking to walk the first steps in the world of programming .
 Currently very interested in automation processes and Cloud architectures.
 Looking forward to meet new people who share my passion and vision .  
   
+
 <br/>  
 
 
@@ -71,11 +70,11 @@ Looking forward to meet new people who share my passion and vision .
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrHammerlock&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 
 </td></tr></table>  
 
