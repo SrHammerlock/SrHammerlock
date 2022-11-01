@@ -39,7 +39,7 @@ Looking forward to meet new people who share my passion and vision .
 
 </td><td valign="top" width="50%">
 
-<div align="center">
+<div align="left">
 <img src="https://media.giphy.com/media/BJLcRLl7zFSwFXYsCq/giphy.gif" align="center" style="width: 50%", height=50% />
 </div>  
 
