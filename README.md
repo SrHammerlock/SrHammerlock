@@ -73,8 +73,8 @@ Looking forward to meet new people who share my passion and vision .
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
 
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srhammerlock&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  
+![github stats](https://github-readme-stats.vercel.app/api?username=srhammerlock&show_icons=true&theme=radical)
 
 </td></tr></table>  
 
