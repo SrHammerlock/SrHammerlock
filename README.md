@@ -68,7 +68,7 @@ Looking forward to meet new people who share my passion and vision .
 
 <br/>  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=srhammerlock&theme=radical)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=srhammerlock&theme=radical)](https://git.io/streak-stats)</a></div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
