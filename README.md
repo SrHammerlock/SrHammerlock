@@ -40,7 +40,7 @@ Looking forward to meet new people who share my passion and vision .
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/BJLcRLl7zFSwFXYsCq/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -66,7 +66,7 @@ Looking forward to meet new people who share my passion and vision .
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
 </div>  
 
-<br/>  
+<br/> 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
