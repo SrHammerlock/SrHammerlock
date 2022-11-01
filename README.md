@@ -70,11 +70,13 @@ Looking forward to meet new people who share my passion and vision .
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)  
+
 
 </td><td valign="top" width="50%">
-  
-![github stats](https://github-readme-stats.vercel.app/api?username=srhammerlock&show_icons=true&theme=radical)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=srhammerlock&show_icons=true&theme=radical)  
+
 
 </td></tr></table>  
 
