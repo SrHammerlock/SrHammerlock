@@ -3,6 +3,7 @@
 <!--
 **SrHammerlock/SrHammerlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 ## Hey 👋, I'm Ofek , AWS Re/Start graduate, computer & programming enthusiast.  
   
 
@@ -24,7 +25,6 @@ looking to walk the first steps in the world of programming .
 Currently very interested in automation processes and Cloud architectures.
 Looking forward to meet new people who share my passion and vision .  
   
-
 <br/>  
 
 
