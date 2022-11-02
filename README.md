@@ -86,7 +86,7 @@ Looking forward to meet new people who share my passion and vision .
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=srhammerlock&&style=flat-square)  
   
 
 <br/>  
