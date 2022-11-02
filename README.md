@@ -1,4 +1,4 @@
-<img src="https://github.com/SrHammerlock/SrHammerlock/blob/main/header.png" alt="banner that says hi, i'm srhammerlock" width=70%>
+<img src="https://github.com/SrHammerlock/SrHammerlock/blob/main/dfd%20(1).png" alt="srhammerlock" width=70%>
 
 ## Hey 👋, I'm Ofek , AWS Re/Start graduate, computer & programming enthusiast.  
   
