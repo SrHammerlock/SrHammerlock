@@ -21,6 +21,8 @@ I’m a junior developer with foundational experience in DevOps, cloud automatio
 
 
 
+
+
 ### 🎓 Education & Certifications
 
 - **AWS Certified Cloud Practitioner** — Amazon Web Services (AWS)
