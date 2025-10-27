@@ -30,6 +30,11 @@ I’m a junior developer with foundational experience in DevOps, cloud automatio
 
 <br/>  
 
+### 🚀 Projects
+
+- **Terraform GPT Deployer** – [Link](https://github.com/SrHammerlock/GPT-Terra-Deployer)  
+  Trained an LLM to automate AWS EC2 deployments, reducing manual setup time.
+
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
