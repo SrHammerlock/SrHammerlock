@@ -20,7 +20,8 @@
 I’m a junior developer with foundational experience in DevOps, cloud automation, and programming in Python, C, and C#.
 
 
-## 🎓 Education & Certifications
+
+### 🎓 Education & Certifications
 - **AWS Certified Cloud Practitioner** — Amazon Web Services (AWS)
 - To be continued!
  
