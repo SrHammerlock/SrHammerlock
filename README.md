@@ -19,6 +19,10 @@
 ### A little bit more about me  
 I’m a junior developer with foundational experience in DevOps, cloud automation, and programming in Python, C, and C#.
 
+
+## 🎓 Education & Certifications
+- **AWS Certified Cloud Practitioner** — Amazon Web Services (AWS)
+- To be continued!
  
 
 <br/>  
@@ -32,11 +36,8 @@ I’m a junior developer with foundational experience in DevOps, cloud automatio
 - 🔭 I’m currently searching for opportunities.
   
 - 🌱 I’m currently learning Java and Algorithms.
-    
+  
 
-## 🎓 Education & Certifications
-- **AWS Certified Cloud Practitioner** — Amazon Web Services (AWS)
-- To be continued!
 
 </td><td valign="top" width="15%">
 
