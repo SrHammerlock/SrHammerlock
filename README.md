@@ -24,12 +24,9 @@ I'm a junior developer , with a base knowledge in DevOps, Automation ,Cloud, Pyt
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-- I'm currently a student in my second year.
-  
+- 🎓 I’m currently a second-year student.  
 - 🔭 I’m currently searching for opportunities.  
-  
-
-- 🌱 I’m currently learning Java and Algorithm.  
+- 🌱 I’m currently learning Java and Algorithms.
     
 
 
