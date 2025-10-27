@@ -1,6 +1,8 @@
 <img src="https://github.com/SrHammerlock/SrHammerlock/blob/main/dfd%20(1).png" alt="srhammerlock" width=100%>
+
 # Hey 👋, I'm Ofek , Computer Science student.
-# AWS Re/Start graduate, computer & programming enthusiast.  
+
+# AWS Re/Start graduate.  
 
   
 
@@ -14,7 +16,7 @@
 
 
 
-### Glad to see you here!  
+### Alittle bit more about me  
 I'm a junior developer , with a base knowledge in DevOps, Automation ,Cloud, Python , C and C#.
 
  
